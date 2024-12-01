@@ -2,11 +2,13 @@
     "cSpell.words": [
         "APPLECOLOR",
         "BGCOLOR",
+        "imul",
         "SCREENH",
         "SCREENW",
         "SNAKECOLOR",
         "SNAKEXARRAY",
         "SNAKEYARRAY",
+        "stosw",
         "WINCOND"
     ]
 }
